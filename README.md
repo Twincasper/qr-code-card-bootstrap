@@ -25,6 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github link](https://github.com/Twincasper/qr-code-card-component)
+- Live Code URL: [Live Code](https://twincasper.github.io/qr-code-card-component/)
 
 ## My process
 
